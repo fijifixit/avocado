@@ -1,0 +1,11 @@
+drwxr-xr-x    2 segop392   segop392         4096 Apr 14 07:40 .
+drwxr-xr-x    6 segop392   segop392         4096 Apr 14 10:52 ..
+-rw-r--r--    1 segop392   segop392           49 Apr 12 18:01 checkIfRecipeExist.query
+-rw-r--r--    1 segop392   segop392          104 Apr 16 00:50 checkIfUserExist.query
+-rw-r--r--    1 segop392   segop392          364 Apr 16 01:46 insertRecipe.query
+-rw-r--r--    1 segop392   segop392           97 Apr 12 14:32 insertUser.query
+-rw-r--r--    1 segop392   segop392           21 Apr 12 11:58 selectAllRecipes.query
+-rw-r--r--    1 segop392   segop392           55 Apr 12 18:34 selectIdUser.query
+-rw-r--r--    1 segop392   segop392           58 Apr 12 19:08 selectRecipesByIngredient.query
+-rw-r--r--    1 segop392   segop392           45 Apr 12 20:50 selectRecipesByName.query
+-rw-r--r--    1 segop392   segop392           49 Apr 14 07:43 selectUserNameById.query

@@ -1,0 +1,2 @@
+INSERT INTO recipes (username, datecreation, description, preparationmethod, ingredients, name, suitableforvegetarians, spicy, skillrequired, cookingtime, servers, image)
+VALUES (${username}, ${datecreation}, ${description}, ${preparationmethod}, ${ingredients}, ${name}, ${suitableforvegetarians}, ${spicy}, ${skillrequired}, ${cookingtime}, ${servers}, ${image})

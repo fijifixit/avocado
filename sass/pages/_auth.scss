@@ -1,0 +1,53 @@
+.content-auth{
+	background: #f6f6f6;
+	padding: 0 0 40px 0;
+	form{
+		&.login, &.register{
+			margin-top: 40px;
+			background:#fff;
+			h2{
+				padding:26px 40px;
+				margin:0;
+				font-family: $second-font;
+				color:$green;
+				font-size: 24px;
+				letter-spacing: 2px;
+			}
+			hr{
+				margin:0;
+				background:$green;
+			}
+			section{
+				margin:26px 40px;
+				label{
+					font-family: $main-font;
+					font-size:18px;
+					color:#c1c5be;
+					letter-spacing: 1px;
+					font-weight: 400;
+				}
+				input{
+					padding:10px;
+					border:1px solid #e5e5e5;
+					font-family: $main-font;
+					width: 275px;
+					&:focus{
+						transition:$transition;
+						border-color:$green;
+						outline:none;
+					}
+				}
+			}
+			input{
+				&.submit-auth{
+					margin: 0 40px 26px;
+					color:#fff;
+					border:none;
+					background:$green;
+					font-family: $main-font;
+					padding:10px 50px;
+				}
+			}
+		}
+	}
+}

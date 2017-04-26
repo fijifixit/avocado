@@ -1,0 +1,16 @@
+drwxr-xr-x    7 segop392   segop392         4096 Apr 14 14:39 .
+drwxr-xr-x    7 segop392   segop392         4096 Apr 14 05:58 ..
+-rw-r--r--    1 segop392   segop392         1508 Apr 16 04:49 authentication.php
+drwxr-xr-x    6 segop392   segop392         4096 Apr 14 10:52 backend
+-rw-r--r--    1 segop392   segop392          841 Aug  9  2014 config.rb
+drwxr-xr-x    4 segop392   segop392         4096 Apr 14 05:59 css
+-rw-r--r--    1 segop392   segop392         4312 Apr 16 04:32 error_log
+drwxr-xr-x    4 segop392   segop392         4096 Apr 14 05:59 fonts
+-rw-r--r--    1 segop392   segop392          161 Jan 18 14:46 footer.php
+-rw-r--r--    1 segop392   segop392          812 Apr 16 04:46 header-main.php
+-rw-r--r--    1 segop392   segop392         1974 Apr 16 04:33 header.php
+drwxr-xr-x    5 segop392   segop392         4096 Apr 14 06:02 img
+-rw-r--r--    1 segop392   segop392         1420 Apr 16 04:46 index.php
+drwxr-xr-x    3 segop392   segop392         4096 Apr 14 05:58 js
+-rw-r--r--    1 segop392   segop392         1376 Apr 16 04:55 listing.php
+-rw-r--r--    1 segop392   segop392         2983 Jan 18 19:58 meringue.php

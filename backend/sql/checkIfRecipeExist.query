@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM recipes WHERE name = ${name}

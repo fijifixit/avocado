@@ -1,0 +1,39 @@
+.addrecipe{
+	padding:40px 0;
+	form{
+		label, input, textarea, select{
+			font-family: $main-font;
+			font-weight: 400;
+			transition:$transition;
+		}
+		input, textarea{
+			border:1px solid #eee;
+			padding:4px 6px;
+			&:focus{
+				border-color:$green;
+				outline: none;
+			}
+			&#submit{
+				background:$green;
+				padding:5px 8px;
+				color:#fff;
+				border:1px solid $green;
+			}
+		}
+		section{
+			padding: 8px 0;
+			&:first-child{
+				padding-top:0;
+			}
+			&:last-child{
+				padding-bottom:0;
+			}
+			&.big_content{
+				textarea{
+					width: 600px;
+					resize:none;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM users WHERE username = ${username} OR email = ${email} OR md5password = md5(${password})

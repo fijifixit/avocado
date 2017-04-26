@@ -1,0 +1,113 @@
+.top{
+    background:url('../img/top-bg.png');
+    background-size:cover;
+    height: 585px;
+    header{
+        background:#fff;
+        padding: 22px 0;
+        img{
+            display: block;
+            margin: 0 auto;
+        }
+        a{
+            &.add-own{
+                background:$green;
+                color:#fff;
+                font-family: $main-font;
+                padding:10px 34px;
+                margin-top: 3px;
+                display:inline-block;
+                &:hover{
+                    text-decoration: none;
+                    transition: $transition;
+                    background: #75c92b;
+                }
+            }
+        }
+    }
+    form{
+    	display: block;
+    	margin:36px auto 0;
+    	text-align: center;
+        input{
+            &.searchbox{
+                width: 320px;
+                padding:12px;
+                font-family: $main-font;
+                border:2px solid #fff;
+                -webkit-box-shadow: 0 2px 2px rgba(104,104,104,.4);
+                -moz-box-shadow: 0 2px 2px rgba(104,104,104,.4);
+                box-shadow: 0 2px 2px rgba(104,104,104,.4);
+                &:focus{
+                    outline:none;
+                    border:2px solid $green;
+                    transition: $transition;
+                }
+            }
+            &.submit{
+                background:#76af43;
+                text-indent: -9999px;
+                width: 50px;
+                height:48px;
+                border:none;
+                margin-left: -4px;
+				background-image: url(../img/icons/search.png);
+				background-repeat: no-repeat;
+				background-position: 50%;
+            }
+        }
+    }
+    p{
+        &.title{
+            font-family:$second-font;
+            letter-spacing: 2px;
+            color:#fff;
+            font-size: 24px;
+            text-align: center;
+            padding-top:140px;
+
+        }
+    }
+}
+
+
+.discover{
+	padding:30px 50px;
+	h2{
+		font-family:$second-font;
+		text-align: center;
+		font-size:32px;
+		color:$green;
+		line-height:24px;
+		letter-spacing: 2px;
+		span{
+			font-family:$main-font;
+			font-size:18px;
+		}
+	}
+	p{
+		text-align: center;
+		font-family: $main-font;
+		line-height: 24px;
+		letter-spacing: 1px;
+		color:#525351;
+	}
+}
+
+.quote{
+	padding:85px 0 0 0;
+	p{
+		font-family:$third-font;
+		font-style: italic;
+		font-size: 30px;
+		color:$green;
+		text-align: center;
+		letter-spacing: 1px;
+		span{
+			font-family: $main-font;
+			font-style: normal;
+			font-size:18px;
+			color:#525351;
+		}
+	}
+}

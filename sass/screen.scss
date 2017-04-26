@@ -1,0 +1,14 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+@import '_bootstrap';
+@import '_variables';
+@import 'elements/_header';
+@import 'elements/_footer';
+@import 'pages/_index';
+@import 'pages/_about';
+@import 'pages/_listing';
+@import 'pages/_recipe';
+@import 'pages/_auth';
+@import 'pages/_add';

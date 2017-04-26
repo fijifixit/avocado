@@ -1,0 +1,21 @@
+.about-top{
+	&.top-bg{
+		height:340px;
+		h1{
+			padding-top:105px;
+		}
+	}
+}
+
+.content-txt{
+	padding:60px 0;
+	p{
+		font-family:$main-font;
+		line-height: 24px;
+		font-size: 18px;
+		font-weight: 400;
+	}
+	h1{
+		font-family: $secondary-font;
+	}
+}

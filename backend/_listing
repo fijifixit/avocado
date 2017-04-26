@@ -1,0 +1,14 @@
+drwxr-xr-x    6 segop392   segop392         4096 Apr 14 10:52 .
+drwxr-xr-x    7 segop392   segop392         4096 Apr 14 14:39 ..
+-rw-r--r--    1 segop392   segop392          366 Apr 14 06:32 config.php
+-rw-r--r--    1 segop392   segop392          318 Apr  8 02:36 config.php~
+drwxr-xr-x    2 segop392   segop392         4096 Apr 16 00:33 core
+-rw-r--r--    1 segop392   segop392        12772 Apr 16 04:28 error_log
+-rw-r--r--    1 segop392   segop392         4454 Apr 16 04:47 insertRecipe.php
+-rw-r--r--    1 segop392   segop392         1335 Apr 16 04:49 insertUser.php
+-rw-r--r--    1 segop392   segop392          654 Apr  8 02:51 listRecipes.php~
+drwxr-xr-x    2 segop392   segop392         4096 Apr 16 04:42 manager
+-rw-r--r--    1 segop392   segop392         2097 Apr 14 07:44 selectRecipes.php
+drwxr-xr-x    2 segop392   segop392         4096 Apr 14 07:40 sql
+drwxr-xr-x    2 segop392   segop392         4096 Apr 16 04:51 uploads
+-rw-r--r--    1 segop392   segop392         1168 Apr 16 04:31 userLogin.php

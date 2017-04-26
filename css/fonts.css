@@ -1,0 +1,44 @@
+/* Fonts */
+@font-face {
+    font-family: 'fontawesome';
+    src: url('../fonts/fontawesome/fontawesome-webfont.eot');
+    src: url('../fonts/fontawesome/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+    	 url('../fonts/fontawesome/fontawesome-webfont.svg#fontawesome') format('svg'),
+         url('../fonts/fontawesome/fontawesome-webfont.woff') format('woff'),
+         url('../fonts/fontawesome/fontawesome-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aleo';
+    src: url('../fonts/aleo/aleo_regular/Aleo-Regular-webfont.eot');
+    src: url('../fonts/aleo/aleo_regular/Aleo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aleo/aleo_regular/Aleo-Regular-webfont.svg#aleo') format('svg'),
+         url('../fonts/aleo/aleo_regular/Aleo-Regular-webfont.woff') format('woff'),
+         url('../fonts/aleo/aleo_regular/Aleo-Regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aleo';
+    src: url('../fonts/aleo/aleo_light/Aleo-Light-webfont.eot');
+    src: url('../fonts/aleo/aleo_light/Aleo-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aleo/aleo_light/Aleo-Light-webfont.svg#aleo') format('svg'),
+         url('../fonts/aleo/aleo_light/Aleo-Light-webfont.woff') format('woff'),
+         url('../fonts/aleo/aleo_light/Aleo-Light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aleo';
+    src: url('../fonts/aleo/aleo_bold/Aleo-Bold-webfont.eot');
+    src: url('../fonts/aleo/aleo_bold/Aleo-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aleo/aleo_bold/Aleo-Bold-webfont.svg#aleo') format('svg'),
+         url('../fonts/aleo/aleo_bold/Aleo-Bold-webfont.woff') format('woff'),
+         url('../fonts/aleo/aleo_bold/Aleo-Bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
